@@ -1,6 +1,8 @@
 # Lumi Bot – Emotion Aware Smart Lamp
 
-Lumi Bot is an interactive smart lamp that detects a user's emotions via facial recognition and voice interaction, then responds with dynamic lighting and music to enhance the environment.
+Lumi Bot is an interactive smart lamp that detects a user's emotional state through facial recognition and voice interaction, then responds with dynamic lighting and music to enhance the environment.
+
+The system combines computer vision, speech recognition, and embedded hardware to create an empathetic smart device.
 
 ## Features
 - Real-time face and emotion detection
