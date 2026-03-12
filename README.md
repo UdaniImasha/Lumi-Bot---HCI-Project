@@ -31,8 +31,3 @@ The system combines computer vision, speech recognition, and embedded hardware t
 3. Python sends the emotion command to the ESP32.
 4. ESP32 changes LED colors and plays matching music.
 
-The webcam detects the user's face and identifies the emotion.
-
-Python sends the emotion command to the ESP32.
-
-ESP32 changes LED colors and plays matching music.
